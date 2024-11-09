@@ -19,29 +19,30 @@ The Habit Tracking App helps you build and maintain positive habits with ease. T
 
 
 ## 🚀 Getting Started
-* Welcome Page Options:
 
-- Login: Sign in using your email and password.
+* Welcome Page Options * :
 
-- Sign Up: Register with your email, receive a verification link, and activate your account.
+  - Login: Sign in using your email and password.
 
-- Login with Google: Quickly log in with your Google account.
+  - Sign Up: Register with your email, receive a verification link, and activate your account.
 
-* Home Page Overview:
+  - Login with Google: Quickly login with your Google account.
 
-- Add, edit, or delete habits easily.
+* Home Page Overview * :
 
-- You can monitor your daily progress with a glance at your Home Page.
+  - Add, edit, or delete habits easily.
 
-* Habit Tracking:
+  - You can monitor your daily progress with a glance at your Home Page.
 
-- Click on any habit’s description to access detailed tracking.
+* Habit Tracking * :
+
+  - Click on any habit’s description to access detailed tracking.
   
-- Visual charts show daily and weekly completion rates for all your habits.
+  - Visual charts show daily and weekly completion rates for all your habits.
   
-* Profile Management:
+* Profile Management * :
 
-- Update your details, change your password, or delete your account directly from your profile.
+  - Update your details, change your password, or delete your account directly from your profile.
 
 
 ## 📸 App Screenshots
