@@ -3,42 +3,49 @@
 
 **Overview**
 
-The Habit Tracking App empowers users to build and sustain meaningful daily and weekly habits with ease and clarity. Designed for those who want to take control of their personal growth, the app combines a seamless, user-friendly experience with powerful tools that keep you motivated and on track. Set goals, visualize your progress, and achieve more with features that make habit tracking simple and impactful.
+The Habit Tracking App helps you build and maintain positive habits with ease. Track your progress, set goals, and get daily reminders to stay on track. Visual charts and insightful weekly reports make it the perfect tool for personal growth and consistency.
+
 
 ## ✨ Key Features
-Secure Authentication
-Access the app with Google or email and password authentication options. (Facebook and Instagram login options coming soon!)
+🔒 Secure Authentication: Log in easily using your Google account, email, and password. (Facebook and Instagram logins coming soon!)
 
-Comprehensive Habit Management
-Easily create habits with detailed descriptions, duration, dates, and categories, such as Work, Study, or Sports.
+📅 Comprehensive Habit Management: Create habits with detailed descriptions, durations, and categories (e.g., Work, Study, Sports), and set specific dates.
 
-Real-Time Progress Monitoring
-Track your daily habit progress directly on the Home Page.
+📈 Real-Time Progress Monitoring: Stay on track with daily habit progress displayed directly on your Home Page.
 
-Weekly Insights with Visual Charts
-Visualize your weekly progress with engaging charts, showing habit completion rates and helping you stay motivated.
+📊 Weekly Insights & Visual Charts: Get a visual representation of your weekly progress through engaging charts, showing your habit completion rates.
 
-Daily Notifications
-Never miss a habit! Get reminders at 1 PM daily to keep you on track.
+⏰ Daily Notifications: Receive reminders at 1 PM daily to ensure you never miss a habit.
+
 
 ## 🚀 Getting Started
-Welcome Page Options
+* Welcome Page Options:
 
-Login: Use your email and password to sign in.
-Sign Up: Register with your email to receive a verification link. Verify your account to activate it.
-Login with Google: Access quickly with your Google account.
-Home Page Overview
+- Login: Sign in using your email and password.
 
-Add, edit, or delete habits.
-Monitor daily progress easily.
-Habit Tracking
+- Sign Up: Register with your email, receive a verification link, and activate your account.
 
-Click on a habit's description to open the Habit Tracking page. Analyze daily and weekly progress with a visual chart showing completion rates for all tracked habits.
-Profile Management
+- Login with Google: Quickly log in with your Google account.
 
-Access your Profile to view or update personal details, change your password, log out, or delete your account.
+* Home Page Overview:
+
+- Add, edit, or delete habits easily.
+
+- You can monitor your daily progress with a glance at your Home Page.
+
+* Habit Tracking:
+
+- Click on any habit’s description to access detailed tracking.
+  
+- Visual charts show daily and weekly completion rates for all your habits.
+  
+* Profile Management:
+
+- Update your details, change your password, or delete your account directly from your profile.
+
 
 ## 📸 App Screenshots
+
 Splash Screen
 <p float="left"> <img src="screenshots/splash.png" width="200" /> </p>
 Onboarding
